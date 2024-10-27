@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Menara Kiri -->
+    <path
+        android:pathData="M50,20 L50,90 L60,90 L60,20 Z"
+        android:fillColor="#FF0000" /> <!-- Warna merah untuk menara kiri -->
+
+    <!-- Menara Kanan -->
+    <path
+        android:pathData="M140,20 L140,90 L150,90 L150,20 Z"
+        android:fillColor="#FF0000" /> <!-- Warna merah untuk menara kanan -->
+
+    <!-- Jembatan bawah -->
+    <path
+        android:pathData="M30,70 L170,70 L165,80 L35,80 Z"
+        android:fillColor="#FF0000" /> <!-- Bagian bawah jembatan -->
+
+    <!-- Kabel Atas -->
+    <path
+        android:pathData="M50,20 C80,10 120,10 150,20"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"/>
+
+    <!-- Kabel Tengah -->
+    <path
+        android:pathData="M50,30 C80,20 120,20 150,30"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"/>
+
+    <!-- Kabel Bawah -->
+    <path
+        android:pathData="M50,40 C80,30 120,30 150,40"
+        android:strokeColor="#000000"
+        android:strokeWidth="2"/>
+
+    <!-- Bagian Dasar Jembatan di Air -->
+    <path
+        android:pathData="M35,80 L165,80 L160,85 L40,85 Z"
+        android:fillColor="#A52A2A" /> <!-- Warna coklat untuk dasar jembatan -->
+
+    <!-- Air di bawah jembatan -->
+    <path
+        android:pathData="M0,85 L200,85 L200,100 L0,100 Z"
+        android:fillColor="#ADD8E6" /> <!-- Warna biru muda untuk air -->
+</vector>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kuliner Musi</string>
+    <string name="kuliner_name_1">Es Kacang Merah</string>
+    <string name="kuliner_name_2">Lakso</string>
+    <string name="kuliner_name_3">Model</string>
+    <string name="kuliner_name_4">Otak-otak</string>
+    <string name="kuliner_name_5">Pempek</string>
+    <string name="kuliner_name_6">Pempek Panggang</string>
+    <string name="kuliner_name_7">Pindang Kerang</string>
+    <string name="kuliner_name_8">Pindang Patin</string>
+    <string name="kuliner_name_9">Srikaya</string>
+    <string name="kuliner_name_10">Tekwan</string>
+    <string name="kuliner_description_1">Es kacang merah adalah minuman segar berisi kacang
+        merah empuk dengan sirup manis dan santan, disajikan bersama es serut</string>
+    <string name="kuliner_description_2">Lakso adalah mie khas Palembang dari tepung beras dan sagu,
+        disajikan dengan kuah santan kuning yang gurih dan berempah.</string>
+    <string name="kuliner_description_3">Model adalah hidangan khas Palembang berupa pempek isi tahu,
+        disajikan dengan kuah kaldu udang yang gurih.</string>
+    <string name="kuliner_description_4">Otak-otak Palembang adalah makanan dari ikan tenggiri yang dibumbui,
+        dibungkus daun pisang, lalu dibakar. Disajikan dengan saus kacang yang gurih dan pedas, rasanya lembut dan kaya aroma.</string>
+    <string name="kuliner_description_5">Pempek adalah makanan khas Palembang dari ikan tenggiri dan tepung sagu, disajikan dengan kuah cuko pedas-manis.</string>
+    <string name="kuliner_description_6">Pempek panggang adalah pempek bakar yang berisi sambal ebi yang pedas dan gurih.</string>
+    <string name="kuliner_description_7">Pindang kerang dara adalah hidangan kerang dara yang dimasak dengan bumbu seperti serai dan daun jeruk, disajikan dalam kuah kuning yang segar dan asam.</string>
+    <string name="kuliner_description_8">Masakan ini terbuat dari ikan patin segar yang dimasak dengan bumbu-bumbu khas yang kaya akan rempah. Kuahnya yang kuning dan segar serta daging ikan patin yang lembut menjadi ciri khas pindang patin.</string>
+    <string name="kuliner_description_9">Kue ini memiliki tekstur yang lembut, rasa manis yang pas, dan aroma pandan yang khas. Srikaya seringkali dijadikan sebagai hidangan penutup atau kudapan yang menyegarkan.</string>
+    <string name="kuliner_deskription_10">Tekwan terbuat dari adonan ikan yang dibentuk bulat-bulat kecil, lalu dimasak dalam kuah udang yang kaya rasa.</string>
+    <string name="about">About:</string>
+    <string name="expand_button_content_description">Lihat informasi lebih lanjut.</string>
+</resources>
